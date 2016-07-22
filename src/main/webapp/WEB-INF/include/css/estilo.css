@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+.display-th {
+	color: #FFFFFF;
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	height: 20;
+	vertical-align: middle;
+	text-align: center;
+	background-color: #0D3F84;
+}

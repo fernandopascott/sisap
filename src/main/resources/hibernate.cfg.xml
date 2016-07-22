@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <mapping class="br.com.sisap.model.Jogador"/>    
+    <mapping class="br.com.sisap.model.Pergunta"/> 
+    <mapping class="br.com.sisap.model.Resposta"/> 
+    <mapping class="br.com.sisap.model.RespostaJogador"/> 
+    <mapping class="br.com.sisap.model.Usuario"/>    
+    
+  </session-factory>
+</hibernate-configuration>
